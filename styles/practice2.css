@@ -33,3 +33,15 @@ legend{
 p>input{
     font-weight: bold;
 }
+nav>ul>li{
+    display:inline;
+    
+    
+}
+nav>ul>li>a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+nav{
+    text-align: center;
+}
